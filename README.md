@@ -1,4 +1,4 @@
-# How to use CryptoPro browser extension in JavasScript
+# How to use CryptoPro browser extension in JavaScript
 
 1. Clone this repository:
 ```bash
